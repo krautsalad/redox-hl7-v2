@@ -1,3 +1,5 @@
+Patch for Windows.
+
 # node-hl7-v2
 This is [Redox's](https://www.redoxengine.com/?utm_source=github&utm_medium=githublink&utm_campaign=open%20source) battle-tested in-house HL7v2 parser/generator. 
 
