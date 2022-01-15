@@ -1,6 +1,6 @@
 {
-  "name": "@baburikon/redox-hl7-v2",
-  "version": "1.0.3",
+  "name": "@krautsalad/redox-hl7-v2",
+  "version": "1.0.4",
   "description": "A parser for hl7 version 2 messages. Creates json from v2 messages, and creates v2 messages from json.",
   "main": "index.js",
   "directories": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baburikon/redox-hl7-v2.git"
+    "url": "git+https://github.com/krautsalad/redox-hl7-v2.git"
   },
   "keywords": [
     "hl7",
@@ -43,5 +43,5 @@
   "bugs": {
     "url": "https://github.com/RedoxEngine/redox-hl7-v2/issues"
   },
-  "homepage": "https://github.com/baburikon/redox-hl7-v2"
+  "homepage": "https://github.com/krautsalad/redox-hl7-v2"
 }
