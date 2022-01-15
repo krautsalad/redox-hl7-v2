@@ -1,112 +1,112 @@
 {
   "components": [
     {
-      "dataType": "IS.1",
+      "dataType": "IST.1",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.2",
+      "dataType": "IST.2",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.3",
+      "dataType": "IST.3",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.4",
+      "dataType": "IST.4",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.5",
+      "dataType": "IST.5",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.6",
+      "dataType": "IST.6",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.7",
+      "dataType": "IST.7",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.8",
+      "dataType": "IST.8",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.9",
+      "dataType": "IST.9",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.10",
+      "dataType": "IST.10",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.11",
+      "dataType": "IST.11",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.12",
+      "dataType": "IST.12",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.13",
+      "dataType": "IST.13",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.14",
+      "dataType": "IST.14",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.15",
+      "dataType": "IST.15",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.16",
+      "dataType": "IST.16",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.17",
+      "dataType": "IST.17",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.18",
+      "dataType": "IST.18",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.19",
+      "dataType": "IST.19",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.20",
+      "dataType": "IST.20",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.21",
+      "dataType": "IST.21",
       "minOccurs": "0",
       "maxOccurs": "1"
     },
     {
-      "dataType": "IS.22",
+      "dataType": "IST.22",
       "minOccurs": "0",
       "maxOccurs": "1"
     }
