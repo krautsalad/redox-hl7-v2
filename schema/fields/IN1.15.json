@@ -1,5 +1,5 @@
 {
-	"dataType": "IS",
+	"dataType": "IST",
 	"longName": "Plan Type",
 	"hl7Table": "HL70086"
 }
